@@ -1,16 +1,3 @@
-{"timestamp": "09:08:49.317", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.358", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.402", "elapsed_s": 0, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.437", "elapsed_s": 0, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.472", "elapsed_s": 0, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.506", "elapsed_s": 0, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.540", "elapsed_s": 0, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.573", "elapsed_s": 0, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.606", "elapsed_s": 0, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.641", "elapsed_s": 0, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.673", "elapsed_s": 0, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.707", "elapsed_s": 0, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.740", "elapsed_s": 0, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.773", "elapsed_s": 0, "frame": 840, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.809", "elapsed_s": 0, "frame": 900, "screen_size": [1280, 720]}
-{"timestamp": "09:08:49.841", "elapsed_s": 0, "frame": 960, "screen_size": [1280, 720]}
+{"timestamp": "09:36:25.313", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 43.5}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 43.5}]}}
+{"timestamp": "09:36:26.276", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [689.32, 302.68], "vel": [0.0, 0.0], "rad": 20, "rot": 291.3}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [689.32, 302.68], "vel": [0.0, 0.0], "rad": 20, "rot": 291.3}]}}
+{"timestamp": "09:36:27.240", "elapsed_s": 2, "frame": 180, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [663.47, 267.98], "vel": [0.0, 0.0], "rad": 20, "rot": 0.3}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [663.47, 267.98], "vel": [0.0, 0.0], "rad": 20, "rot": 0.3}]}}
